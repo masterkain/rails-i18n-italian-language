@@ -1,3 +1,7 @@
+# Author::    Claudio Poli (mailto:claudio@icoretech.org)
+
+# Italian ActionView language file.
+
 it-IT:
   number:
     # Used in number_with_delimiter()
