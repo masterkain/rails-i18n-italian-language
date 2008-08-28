@@ -11,6 +11,6 @@ Hovewer for your convenience I've splitted the content of this file into the
 areas they belongs to, like action_view, active_record, active_support.
 
 For more informations:
-http://www.artweb-design.de/2008/7/18/the-ruby-on-rails-i18n-core-api
-http://www.icoretech.org/tag/i18n
-http://www.lucaguidi.com/2008/7/18/what-s-new-in-rails-edge-i18n
+* http://www.artweb-design.de/2008/7/18/the-ruby-on-rails-i18n-core-api
+* http://www.icoretech.org/tag/i18n
+* http://www.lucaguidi.com/2008/7/18/what-s-new-in-rails-edge-i18n
