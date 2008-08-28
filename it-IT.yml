@@ -8,18 +8,18 @@ it-IT:
       # The values :model :attribute and :value are always available for interpolation
       # The value :count is available when applicable. Can be used for pluralization.
       messages:
-        inclusion: "non è incluso nella lista"
-        exclusion: "è riservato"
-        invalid: "è invalido"
+        inclusion: "non &egrave; incluso nella lista"
+        exclusion: "&egrave; riservato"
+        invalid: "&egrave; invalido"
         confirmation: "non coincide con la conferma"
         accepted: "deve essere accettata"
-        empty: "non può essere vuoto"
-        blank: "non può essere vuoto"
-        too_long: "è troppo lungo (il massimo è {{count}} lettere)"
-        too_short: "è troppo corto (il minimo è {{count}} lettere)"
-        wrong_length: "è della lunghezza sbagliata (deve essere di {{count}} lettere)"
-        taken: "è già in uso"
-        not_a_number: "non è un numero"
+        empty: "non pu&ograve; essere vuoto"
+        blank: "non pu&ograve; essere vuoto"
+        too_long: "&egrave; troppo lungo (il massimo &egrave; {{count}} lettere)"
+        too_short: "&egrave; troppo corto (il minimo &egrave; {{count}} lettere)"
+        wrong_length: "&egrave; della lunghezza sbagliata (deve essere di {{count}} lettere)"
+        taken: "&egrave; gi&agrave; in uso"
+        not_a_number: "non &egrave; un numero"
         greater_than: "deve essere superiore a {{count}}"
         greater_than_or_equal_to: "deve essere superiore o uguale a {{count}}"
         equal_to: "deve essere uguale a {{count}}"
@@ -51,7 +51,7 @@ it-IT:
       short: "%d %b"
       long: "%d %B %Y"
 
-    day_names: [Domenica, Lunedì, Martedì, Mercoledì, Giovedì, Venerdì, Sabato]
+    day_names: [Domenica, Luned&igrave;, Marted&igrave;, Mercoled&igrave;, Gioved&igrave;, Venerd&igrave;, Sabato]
     abbr_day_names: [Dom, Lun, Mar, Mer, Gio, Ven, Sab]
 
     # Don't forget the nil at the beginning; there's no such thing as a 0th month
