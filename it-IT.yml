@@ -10,11 +10,11 @@ it-IT:
       messages:
         inclusion: "non &egrave; incluso nella lista"
         exclusion: "&egrave; riservato"
-        invalid: "&egrave; invalido"
+        invalid: "non &egrave; valido"
         confirmation: "non coincide con la conferma"
         accepted: "deve essere accettata"
         empty: "non pu&ograve; essere vuoto"
-        blank: "non pu&ograve; essere vuoto"
+        blank: "non pu&ograve; essere lasciato in bianco"
         too_long: "&egrave; troppo lungo (il massimo &egrave; {{count}} lettere)"
         too_short: "&egrave; troppo corto (il minimo &egrave; {{count}} lettere)"
         wrong_length: "&egrave; della lunghezza sbagliata (deve essere di {{count}} lettere)"
