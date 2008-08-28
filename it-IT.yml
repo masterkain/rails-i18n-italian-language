@@ -1,6 +1,4 @@
 # Author::    Claudio Poli (mailto:claudio@icoretech.org)
-# Copyright:: Copyright (c) 2008 iCoreTech Labs
-# License::   iCoreTech Labs Corporate License
 
 # Italian language file.
 
@@ -39,11 +37,11 @@ it-IT:
 
       template:
         header:
-          one:   "1 errore non ha consentito {{model}} dall'essere salvato"
-          many:  "{{count}} errori non hanno consentito questo {{model}} di essere salvato"
+          one:   "un errore non ha consentito questo {{model}} dall'essere salvato"
+          other:  "{{count}} errori non hanno consentito questo {{model}} di essere salvato"
           # The variable :count is also available
-          body: "Ci sono stati problemi con i seguenti campi:"
-            
+        body: "Ci sono stati problemi con i seguenti campi:"
+
   date:
     formats:
       # Use the strftime parameters for formats.
