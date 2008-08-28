@@ -1,0 +1,11 @@
+= Ruby on Rails I18n SimpleBacked Italian language files.
+
+This collection of files is meant to add a basic support for Italian language
+to your Rails (edge) application.
+
+Files are utf-8 and stored with accented wovels directly, leaving the entities
+encoding to the views. Every file is in YAML format.
+
+The main file, which is probably what you want, is it-IT.yml
+Hovewer for your convenience I've splitted the content of this file into the
+areas they belongs to, like action_view, active_record, active_support.
