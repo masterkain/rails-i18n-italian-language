@@ -29,9 +29,9 @@ it-IT:
     percentage:
       format:
         # These three are to override number.format and are optional
-        # separator: 
+        # separator:
         delimiter: ""
-        # precision: 
+        # precision:
 
     # Used in number_to_precision()
     precision:
@@ -45,7 +45,7 @@ it-IT:
     human:
       format:
         # These three are to override number.format and are optional
-        # separator: 
+        # separator:
         delimiter: ""
         precision: 1
 
@@ -92,4 +92,3 @@ it-IT:
           other:  "{{count}} errori non hanno consentito questo {{model}} di essere salvato"
           # The variable :count is also available
         body: "Ci sono stati problemi con i seguenti campi:"
-

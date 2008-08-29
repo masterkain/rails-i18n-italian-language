@@ -99,9 +99,9 @@ it-IT:
     percentage:
       format:
         # These three are to override number.format and are optional
-        # separator: 
+        # separator:
         delimiter: ""
-        # precision: 
+        # precision:
 
     # Used in number_to_precision()
     precision:
@@ -115,7 +115,7 @@ it-IT:
     human:
       format:
         # These three are to override number.format and are optional
-        # separator: 
+        # separator:
         delimiter: ""
         precision: 1
 
