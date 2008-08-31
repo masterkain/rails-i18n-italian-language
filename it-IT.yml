@@ -4,6 +4,10 @@
 
 it-IT:
   activerecord:
+    models:
+      # Overrides default messages
+    attributes:
+      # Overrides model and default messages.
     errors:
       # The values :model :attribute and :value are always available for interpolation
       # The value :count is available when applicable. Can be used for pluralization.
@@ -28,12 +32,6 @@ it-IT:
         odd: "deve essere dispari"
         even: "deve essere pari"
         # Append your own errors here or at the model/attributes scope.
-
-      models:
-        # Overrides default messages
-
-      attributes:
-        # Overrides model and default messages.
 
       template:
         header:
