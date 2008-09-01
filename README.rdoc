@@ -3,7 +3,7 @@
 This collection of files is meant to add a basic support for Italian language
 to your Rails (edge) application.
 
-Files are encoded with UTF-8 and stored with accented wovels directly, leaving
+Files are encoded with UTF-8 and stored with accented vowels directly, leaving
 the entities encoding to the views.
 
 Every file is in YAML format.
